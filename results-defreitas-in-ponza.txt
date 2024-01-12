@@ -1,0 +1,285 @@
+C:\Users\avelino\anaconda3\envs\programacao\python.exe "C:/Program Files/JetBrains/PyCharm 2023.1/plugins/python/helpers/pydev/pydevconsole.py" --mode=client --host=127.0.0.1 --port=59206 
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['C:\\Users\\avelino\\OneDrive\\programacao\\PYTHON\\fstsp-tulio'])
+Python 3.8.17 (default, Jul  5 2023, 20:44:21) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.12.2 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 8.12.2
+Python 3.8.17 (default, Jul  5 2023, 20:44:21) [MSC v.1916 64 bit (AMD64)] on win32
+runfile('C:\\Users\\avelino\\OneDrive\\programacao\\PYTHON\\fstsp-tulio\\fstsp-python\\fstsp.py', args=['C:\\Users\\avelino\\OneDrive\\programacao\\fstsp-mip-eu\\data\\ponza2016\\Instance_005.1_new.dat'], wdir='C:\\Users\\avelino\\OneDrive\\programacao\\PYTHON\\fstsp-tulio\\fstsp-python')
+solutions\Instance_005.1_new.dat.txt
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 4123.609300
+    Truck's path  =  0  -  4  -  5  -  3  -  0 
+    Drone's paths =  0  1        5
+                                       3  2  0
+Total runtime: 0.24 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 3467.068500
+    Truck's path  =  0  -  4  -  1  -  2  -  0 
+    Drone's paths =  0  3        1
+                                       2  5  0
+Total runtime: 0.18 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 3181.124000
+    Truck's path  =  0  -  1  -  3  -  5  -  0 
+    Drone's paths =  0  4              5
+                                       5  2  0
+Total runtime: 0.16 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 5170.767200
+    Truck's path  =  0  -  2  -  3  -  5  -  0 
+    Drone's paths =  0  1        3
+                                       5  4  0
+Total runtime: 0.11 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 5420.313300
+    Truck's path  =  0  -  3  -  4  -  1  -  0 
+    Drone's paths =  0  2              1
+                                       1  5  0
+Total runtime: 0.10 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 7052.142400
+    Truck's path  =  0  -  2  -  5  -  1  -  4  -  3  -  0 
+    Drone's paths =  0  6                    4
+Total runtime: 0.15 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 5804.107700
+    Truck's path  =  0  -  2  -  5  -  4  -  3  -  0 
+    Drone's paths =  0  6              4
+                                       4  1        0
+Total runtime: 0.19 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6754.550100
+    Truck's path  =  0  -  5  -  1  -  3  -  4  -  6  -  0 
+    Drone's paths =  0  2                    4
+Total runtime: 0.17 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 4348.125800
+    Truck's path  =  0  -  3  -  5  -  6  -  1  -  0 
+    Drone's paths =  0  2              6
+                                       6  4  1
+Total runtime: 0.51 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 4680.774000
+    Truck's path  =  0  -  5  -  3  -  1  -  0 
+    Drone's paths =  0  4        3
+                                 3  6  1
+                                       1  2  0
+Total runtime: 0.28 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 5504.301100
+    Truck's path  =  0  -  2  -  6  -  4  -  7  -  1  -  0 
+    Drone's paths =  0  3        6
+                                                   1  5  0
+Total runtime: 1.32 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 5342.682400
+    Truck's path  =  0  -  2  -  3  -  6  -  1  -  5  -  0 
+    Drone's paths =                    6  7  1
+                                             1  4  5
+Total runtime: 1.38 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 7452.074800
+    Truck's path  =  0  -  2  -  3  -  4  -  6  -  5  -  1  -  0 
+    Drone's paths =  0  7                                1
+Total runtime: 0.22 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 7577.103600
+    Truck's path  =  0  -  2  -  6  -  4  -  5  -  3  -  1  -  0 
+    Drone's paths =  0  7                                1
+Total runtime: 0.26 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6970.989300
+    Truck's path  =  0  -  7  -  3  -  6  -  5  -  1  -  0 
+    Drone's paths =  0  4        3
+                                       6  2  5
+Total runtime: 0.36 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6669.019100
+    Truck's path  =  0  -  4  -  8  -  5  -  1  -  6  -  0 
+    Drone's paths =  0  3        8
+                                 8  7  5
+                                                   6  2  0
+Total runtime: 2.15 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6282.101000
+    Truck's path  =  0  -  3  -  1  -  8  -  7  -  5  -  6  -  0 
+    Drone's paths =  0  4        1
+                                       8  2        5
+Total runtime: 3.19 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 5740.115300
+    Truck's path  =  0  -  8  -  6  -  1  -  7  -  5  -  2  -  0 
+    Drone's paths =  0  3        6
+                                             7  4        2
+Total runtime: 2.53 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6243.106400
+    Truck's path  =  0  -  7  -  5  -  8  -  4  -  3  -  1  -  0 
+    Drone's paths =  0  6                          3
+                                                   3  2        0
+Total runtime: 1.40 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 5659.865300
+    Truck's path  =  0  -  5  -  6  -  2  -  3  -  1  -  4  -  0 
+    Drone's paths =  0  7              2
+                                             3  8              0
+Total runtime: 2.92 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 7247.091400
+    Truck's path  =  0  -  7  -  3  -  4  -  1  -  5  -  2  -  9  -  0 
+    Drone's paths =  0  8                                      9
+                                                               9  6  0
+Total runtime: 4.03 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6204.629700
+    Truck's path  =  0  -  8  -  3  -  7  -  4  -  2  -  5  -  0 
+    Drone's paths =  0  9  8
+                           8  6  3
+                                                         5  1  0
+Total runtime: 5.13 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 7222.389400
+    Truck's path  =  0  -  8  -  5  -  9  -  1  -  7  -  3  -  4  -  2  -  0 
+    Drone's paths =  0  6                                3
+Total runtime: 4.06 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6777.718300
+    Truck's path  =  0  -  8  -  4  -  5  -  9  -  3  -  7  -  0 
+    Drone's paths =  0  2              5
+                                                   3  1  7
+                                                         7  6  0
+Total runtime: 4.91 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 7762.665000
+    Truck's path  =  0  -  6  -  2  -  9  -  4  -  8  -  5  -  0 
+    Drone's paths =  0  7              9
+                                       9  3  4
+                                                   8  1  5
+Total runtime: 7.86 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_010.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 5720.334200
+    Truck's path  =  0  -  6  -  5  -  4  - 10  -  8  -  2  -  0 
+    Drone's paths =  0  9        5
+                                 5  1  4
+                                       4  3        8
+                                                   8  7        0
+Total runtime: 27.04 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_010.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6350.974500
+    Truck's path  =  0  - 10  -  8  -  4  -  9  -  3  -  2  -  7  -  0 
+    Drone's paths =  0  6                    9
+                                             9  1  3
+                                                   3  5        7
+Total runtime: 25.02 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_010.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 6310.604700
+    Truck's path  =  0  -  7  - 10  -  3  -  9  -  5  -  1  -  0 
+    Drone's paths =        7  6 10
+                                10  4  3
+                                       3  8  9
+                                             9  2              0
+Total runtime: 22.14 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_010.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 8337.917300
+    Truck's path  =  0  -  2  -  8  -  3  -  9  - 10  -  5  -  7  -  1  -  0 
+    Drone's paths =  0  4                         10
+                                                                     1  6  0
+Total runtime: 5.04 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_010.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+    Solution cost = 8894.411000
+    Truck's path  =  0  -  7  -  1  -  8  -  4  -  3  -  9  -  6  - 10  -  0 
+    Drone's paths =  0  5                          3
+                                                               6  2 10
+Total runtime: 18.86 seconds
