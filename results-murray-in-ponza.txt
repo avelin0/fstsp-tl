@@ -221,6 +221,15 @@ Total runtime: 32.96 seconds
 Set parameter Username
 Academic license - for non-commercial use only - expires 2024-12-14
 Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 1261.91 seconds
+
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_010.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
 
 
 [demorou muito... sem resultado, nao coloquei limite de tempo...]
