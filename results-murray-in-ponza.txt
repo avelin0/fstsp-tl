@@ -1,0 +1,226 @@
+C:\Users\avelino\anaconda3\envs\programacao\python.exe "C:/Program Files/JetBrains/PyCharm 2023.1/plugins/python/helpers/pydev/pydevconsole.py" --mode=client --host=127.0.0.1 --port=59168 
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['C:\\Users\\avelino\\OneDrive\\programacao\\PYTHON\\fstsp-tulio'])
+Python 3.8.17 (default, Jul  5 2023, 20:44:21) [MSC v.1916 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.12.2 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 8.12.2
+Python 3.8.17 (default, Jul  5 2023, 20:44:21) [MSC v.1916 64 bit (AMD64)] on win32
+runfile('C:\\Users\\avelino\\OneDrive\\programacao\\PYTHON\\fstsp-tulio\\fstsp-python\\murray_fstsp.py', args=['C:\\Users\\avelino\\OneDrive\\programacao\\fstsp-mip-eu\\data\\ponza2016\\Instance_005.1_new.dat'], wdir='C:\\Users\\avelino\\OneDrive\\programacao\\PYTHON\\fstsp-tulio\\fstsp-python')
+solutions\murray_Instance_005.1_new.dat.txt
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+    Solution cost = 3935.946300
+    Truck's path  =  0  -  1  -  5  -  4  -  0 
+    Drone's paths =  0  2        5
+                                 5  3        0
+Total runtime: 0.24 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+    Solution cost = 3504.832800
+    Truck's path  =  0  -  4  -  1  -  2  -  0 
+    Drone's paths =  0  3  4
+                           4  5        2
+Total runtime: 0.25 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+    Solution cost = 3181.124000
+    Truck's path  =  0  -  5  -  3  -  1  -  0 
+    Drone's paths =  0  2  5
+                           5  4              0
+Total runtime: 0.25 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+    Solution cost = 5130.767200
+    Truck's path  =  0  -  2  -  3  -  5  -  0 
+    Drone's paths =  0  1        3
+                                       5  4  0
+Total runtime: 0.19 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_005.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 0.15 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 0.18 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 0.32 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 0.20 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+    Solution cost = 3981.030900
+    Truck's path  =  0  -  1  -  6  -  3  -  0 
+    Drone's paths =  0  2  1
+                           1  4  6
+                                 6  5  3
+Total runtime: 0.61 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_006.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+    Solution cost = 4640.774000
+    Truck's path  =  0  -  5  -  3  -  1  -  0 
+    Drone's paths =  0  4        3
+                                 3  6  1
+                                       1  2  0
+Total runtime: 0.53 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 1.24 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+    Solution cost = 5095.166600
+    Truck's path  =  0  -  5  -  1  -  2  -  3  -  6  -  0 
+    Drone's paths =        5  4  1
+                                 1  7              6
+Total runtime: 2.34 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 0.54 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 0.62 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_007.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 0.65 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 3.32 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 4.71 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 6.93 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 5.32 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_008.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 17.51 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 22.66 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.2_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 79.05 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.3_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 18.39 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.4_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 16.28 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_009.5_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+error in write solution
+    Solution cost = 0.000000
+    Truck's path  =  0 
+Total runtime: 32.96 seconds
+[+] C:\Users\avelino\OneDrive\programacao\fstsp-mip-eu\data\run\Instance_010.1_new.dat
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-14
+Warning: linear constraint 0 and linear constraint 1 have the same name "c2"
+
+
+[demorou muito... sem resultado, nao coloquei limite de tempo...]
